@@ -1,0 +1,1 @@
+/home/boogiepop/.vim/vimrc
